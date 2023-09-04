@@ -27,18 +27,21 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
+    label: Send me an email!
     link: 'mailto:ashleymullan2000@gmail.com'
   - icon: twitter
     icon_pack: fab
+    label: Check out my Twitter!
     link: https://twitter.com/ashley___mullan
   - icon: github
     icon_pack: fab
+    label: Here's my Github!
     link: https://github.com/ashleymullan
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
   - icon: file-pdf
     icon_pack: fas
-    label: View CV
+    label: View my current CV!
     link: uploads/cv_mullan.pdf
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
