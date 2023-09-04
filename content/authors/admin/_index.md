@@ -10,12 +10,12 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🤔
 
 # Organizations/Affiliations
-#organizations:
-#- name: Wake Forest University: Department of Statistical Sciences
-#  url: "https://stats.wfu.edu/"
+organizations:
+  name: Wake Forest University: Department of Statistical Sciences
+  url: "https://stats.wfu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
