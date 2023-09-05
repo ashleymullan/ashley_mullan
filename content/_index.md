@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: "Ashley E. Mullan's Website"
 date: 2022-10-24
 type: landing
 sections:
