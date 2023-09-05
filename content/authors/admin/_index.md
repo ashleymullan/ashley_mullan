@@ -44,5 +44,5 @@ social:
     label: View my current CV!
     link: uploads/cv_mullan.pdf
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+  email: "ashleymullan2000@gmail.com"
 ---
